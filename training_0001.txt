@@ -9,11 +9,11 @@
 
 胸部Ｘ線検査表示例
 
-![胸部Ｘ線写真](C:\Users\mnes\Desktop\LookRec仕様書\noma\検診読影システム仕様書\image\image_0.1.png "胸部Ｘ線画像表示例")
+
 
 胃部Ｘ線検査表示例
 
-![胃部Ｘ線写真](C:\Users\mnes\Desktop\LookRec仕様書\noma\検診読影システム仕様書\image\image_0.2.png)
+
 
 
 
